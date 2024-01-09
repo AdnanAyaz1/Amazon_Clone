@@ -1,5 +1,5 @@
 
-import logo from './log.png';
+import logo from './logo.png';
 import bannerimgone from './banner/bannerImgOne.jpg'
 import bannerimgTwo from './banner/bannerImgTwo.jpg'
 import bannerimgThree from './banner/bannerImgThree.jpg'
