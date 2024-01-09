@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+ .headerHover {
+ @apply  hover:border-white duration-100 border border-transparent px-2
+ 
+ }
+ .p1{
+    @apply text-sm text-lightText font-light -mb-1
+}
+
+.p2{
+    @apply text-base text-whiteText font-semibold  
+}
+
+.sidebarlist{
+  @apply flex items-center justify-between hover:bg-slate-300 py-2 px-1
+}
+
+.imagedetails{
+@apply flex justify-end px-4 border-b-2 border-gray-300 hover:border-gray-600 gap-2
+}
+
+.imagedetailsh2{
+@apply font-medium text-gray-700 hover:text-black hover:cursor-pointer
+}
+
+}
+
