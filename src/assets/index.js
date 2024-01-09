@@ -1,6 +1,6 @@
 
 import logo from './logo.png';
-import bannerimgone from './banner/bannerimgone.jpg'
+import bannerimgone from './banner/bannerigone.jpg'
 import bannerimgTwo from './banner/bannerimgtwo.jpg'
 import bannerimgThree from './banner/bannerimgthree.jpg'
 import bannerimgFour from './banner/bannerimgfour.jpg'
