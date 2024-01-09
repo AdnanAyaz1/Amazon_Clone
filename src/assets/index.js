@@ -1,10 +1,10 @@
 
 import logo from './logo.png';
-import bannerimgone from './banner/bannerigone.jpg'
-import bannerimgTwo from './banner/bannerimgtwo.jpg'
-import bannerimgThree from './banner/bannerimgthree.jpg'
-import bannerimgFour from './banner/bannerimgfour.jpg'
-import bannerimgFive from './banner/bannerimgfive.jpg'
+import bannerimgone from './banner/bannerImgOne.jpg'
+import bannerimgTwo from './banner/bannerImgTwo.jpg'
+import bannerimgThree from './banner/bannerImgThree.jpg'
+import bannerimgFour from './banner/bannerImgFour.jpg'
+import bannerimgFive from './banner/bannerImgFive.jpg'
 import emptyCart from './emptyCart.png'
 
 const images = [bannerimgone,bannerimgTwo,bannerimgThree,bannerimgFour,bannerimgFive]
